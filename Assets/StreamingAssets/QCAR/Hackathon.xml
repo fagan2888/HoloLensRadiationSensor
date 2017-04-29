@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="qrcode20" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode19" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode18" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode17" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode16" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode15" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode14" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode13" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode12" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode11" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode10" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode9" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode8" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode7" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode6" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode5" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode4" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode3" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode2" size="0.150000 0.150000" />
+    <ImageTarget name="qrcode1" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
